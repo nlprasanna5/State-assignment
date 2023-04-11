@@ -1,0 +1,32 @@
+/* td,tr,th,table{
+  border:1px solid;
+  border-collapse: collapse;
+  padding: 5px;
+} */
+
+.greetContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width:100vw;
+  height:70vh;
+ 
+}
+h2 {
+  color:blue;
+  font-size: 2rem;
+}
+
+button {
+  background-color: blueviolet;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding:.5rem;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+
+

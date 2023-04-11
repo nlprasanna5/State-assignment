@@ -1,10 +1,10 @@
 // import logo from './logo.svg';
 import './App.css';
-import MouseEvent from './components/MouseEvent';
+import Greet from './components/Greeting';
 function App() {
   return (
     <>
-    <MouseEvent/>
+   <Greet/>
     </>
    
   );
