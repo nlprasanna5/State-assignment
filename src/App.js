@@ -1,11 +1,10 @@
 // import logo from './logo.svg';
 import './App.css';
-import Generate from './components/GenerateTable';
-
+import MouseEvent from './components/MouseEvent';
 function App() {
   return (
     <>
-    <Generate/>
+    <MouseEvent/>
     </>
    
   );
